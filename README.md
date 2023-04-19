@@ -3,12 +3,13 @@ Terraform Workshop 2023
 
 Resources for the attendees of the Working Spirit Terraform Workshop
 
-## Websites
+## Websites 
 
-https://terraform.io
-https://registry.terraform.io
+Main Site: https://terraform.io
+Registry: https://registry.terraform.io
+HCL / TF Language: https://developer.hashicorp.com/terraform/language
 
-Docker local example https://developer.hashicorp.com/terraform/tutorials/docker-get-started/docker-build
+Docker local example: https://developer.hashicorp.com/terraform/tutorials/docker-get-started/docker-build
 
 Inspiration: https://developer.hashicorp.com/terraform/tutorials
 
