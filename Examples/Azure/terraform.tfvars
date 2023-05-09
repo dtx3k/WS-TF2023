@@ -1,0 +1,5 @@
+tenantid = "b9841609-fb30-4282-a54e-hshjsdhkjshd"
+subscriptionid = "7a15173f-0b16-480e-b518-5484554wfd42wqa"
+clientid = "940c0f6f-1570-484a-b255-edfg456454"
+clientsecret = "jV68Q~blaterreafrmandstuff.website$"
+adminpass = "somepassword"
