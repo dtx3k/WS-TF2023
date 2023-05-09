@@ -14,4 +14,6 @@ Linux: ``` apt update && apt install azure-cli ```
 
 ## login
 
-Login into Azure via cmd line ```bash az login ```
+Login into Azure via cmd line ```bash az login ```  
+go to correct subscription ```bash az account set --subscription="subscription-name" ```  
+or show subscriptions available in Azure ```bash az account show ```  
