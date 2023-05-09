@@ -5,9 +5,9 @@ Resources for the attendees of the Working Spirit Terraform Workshop
 
 ## Websites 
 
-Main Site: https://terraform.io
-Registry: https://registry.terraform.io
-HCL / TF Language: https://developer.hashicorp.com/terraform/language
+Main Site: https://terraform.io  
+Registry: https://registry.terraform.io  
+HCL / TF Language: https://developer.hashicorp.com/terraform/language  
 
 Docker local example: https://developer.hashicorp.com/terraform/tutorials/docker-get-started/docker-build
 
@@ -27,6 +27,6 @@ Github Search: https://github.com/topics/terraform-templates?o=desc&s=updated
 Azure templates https://github.com/Build5Nines/terraform-quickstart-templates
 
 ## Get Certified
-HashiCorp Certified:
-Terraform Associate (003)
-https://developer.hashicorp.com/certifications/infrastructure-automation
+HashiCorp Certified:  
+Terraform Associate (003)  
+https://developer.hashicorp.com/certifications/infrastructure-automation  
